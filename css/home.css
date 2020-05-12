@@ -1,0 +1,118 @@
+#dis_bolme { 
+	width: 1340px; 
+	height: 140px;
+	background-color: transparent;
+}
+
+.ic_bolme{
+    float: left;
+    width: 420px;
+    height: 200px;
+    background-color: transparent;
+    margin-right: 10px;
+    margin-left: 4px;
+	margin-top : 20px;
+}
+
+.ic_bolme p {
+	font-family: Consolas;
+	line-height: 10px;
+}
+
+.ic_bolme h1 {
+  font-family: Comic Sans MS;
+  line-height: 15px;
+}
+
+.ic_bolme h3 {
+  font-family: Sans-serif;
+}
+
+h3.solid {
+	border-style: solid;
+	width: 70px;
+	border-color: black;
+	border-width: 5px;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: large;
+}
+
+body {
+  background-color: #ffe413;
+}
+
+hr.cizgi {
+  border: 4px solid black;
+  width: 1175px;
+}
+
+#div {
+	padding: 90px;
+}
+
+#div h2 {
+	font-family: Comic Sans MS;
+}
+
+#div p {
+	font-family: Sans-serif;
+	text-align:justify;
+}
+
+#iletisim_dis { 
+	width: 1350px;
+}
+
+.iletisim_ic{
+    float: left;
+	width: 800px;
+    height: 550px;
+    margin-right: 10px;
+    margin-left: 4px;
+}
+
+.iletisim_ic2{
+    float: left;
+	width: 200px;
+    height: 550px;
+    margin-left: 110px;
+	margin-top: 110px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #022B57;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #022B57;
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+
+/* Increase the font size of the heading */
+.footer h1 {
+  font-size: 60px;
+}

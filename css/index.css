@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+  background-color: black;
+}
+
+#myVideo {
+  display: block;
+  margin: 0 auto;
+}
+
+#ana_div {
+  position: fixed;
+  bottom: 0;
+  background: rgb(0,0,0,0);
+  color: white;
+  height: 85px;
+  width: 510px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px; /*divin alt boşluğu için*/
+  left: 30%;
+  border: 2px solid white;
+  font-family: decorative;
+}
+
+.div {
+    float: left;
+    display: inline-block;
+    margin: 2px;
+    color: #FFF;
+	line-height: 0.3;
+}
